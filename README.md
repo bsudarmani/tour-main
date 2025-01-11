@@ -16,4 +16,5 @@ The Zholidays platform leverages the following technologies:
 
 You can view the demo video for the Zholidays Learning Management System below:
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1miRhDPQkxUmWEHL8Ve1u1qaqVtuIY6HD)](https://drive.google.com/file/d/1miRhDPQkxUmWEHL8Ve1u1qaqVtuIY6HD/view)
+![Demo Image](https://drive.google.com/uc?export=view&id=1miRhDPQkxUmWEHL8Ve1u1qaqVtuIY6HD)
+
