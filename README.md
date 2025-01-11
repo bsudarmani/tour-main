@@ -15,7 +15,5 @@ The Zholidays platform leverages the following technologies:
 ## Project Demo Video
 
 You can view the demo video for the Zholidays Learning Management System below:
-D:\tour-main\tour-main\readme-images
-[![Zholidays Demo](readme-images\desktop.png)](https://drive.google.com/file/d/1miRhDPQkxUmWEHL8Ve1u1qaqVtuIY6HD/view)
 
-
+[![Zholidays Demo](assets/images/desktop.png)](https://drive.google.com/file/d/1miRhDPQkxUmWEHL8Ve1u1qaqVtuIY6HD/view)
